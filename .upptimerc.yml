@@ -1,36 +1,59 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+##
+# Upptime Config - status.onetimesecret.com (2024-05-24)
+#
+# See:
+#   - https://upptime.js.org/docs/configuration
+#
+owner: onetimesecret
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Onetime Secret
+    url: https://onetimesecret.com/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+    headers:
+      - "OTS-VIA: upptime"
+  - name: Staging
+    url: $STAGING_HOST
+    port: 443
     check: "tcp-ping"
     ipv6: true
+  - name: App Support
+    url: https://app.onetimesecret.com/
+  - name: API (v1)
+    url: https://onetimesecret.com/api/v1/status
+    __dangerous__body_down_if_text_missing: '"status":"nominal"'
+
+# Delay (in milliseconds) that will occur between checking each
+# configured endpoint. Default: 0.
+delay: 2000
+
+# Status issues open for less than 15 minutes are deleted instead.
+skipDeleteIssues: true
+
+# Default github username to assign issue tickets
+assignees:
+  - delano
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.onetimesecret.com
+  logoUrl: https://onetimesecret.com/img/logo-96.png
+  name: Status - Onetime Secret
+  introTitle: Real-time status and uptime monitoring for Onetime Secret.
+  introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://upptime.js.org)
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Return to home
+      href: https://onetimesecret.com/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Disable auto-updates for repo description, topics, and homepage
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true

@@ -16,17 +16,6 @@ sites:
       - 201
     headers:
       - "OTS-VIA: upptime"
-  - name: Homepage (staging)
-    url: $STAGING_HOST
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 201
-    headers:
-      - "OTS-VIA: upptime"
-  - name: App Support
-    url: https://app.onetimesecret.com/
-
   - name: API Status (v1)
     url: https://onetimesecret.com/api/v1/status
     __dangerous__body_down_if_text_missing: '"status":"nominal"'
@@ -36,7 +25,11 @@ sites:
     headers:
       - "Authorization: Basic $ONETIME_API_TOKEN"
       - "Content-Type: application/x-www-form-urlencoded"
+      - "OTS-VIA: upptime"
     body: 'secret=$UNIQUE_TESTABLE_VALUE&ttl=86400'
+  - name: App Support
+    url: https://app.onetimesecret.com/
+
 
 # Delay (in milliseconds) that will occur between checking each
 # configured endpoint. Default: 0.

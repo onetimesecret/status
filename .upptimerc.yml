@@ -8,7 +8,7 @@ owner: onetimesecret
 repo: status
 
 sites:
-  - name: Onetime Secret
+  - name: Homepage
     url: https://onetimesecret.com/
     maxResponseTime: 5000
     expectedStatusCodes:
@@ -16,16 +16,27 @@ sites:
       - 201
     headers:
       - "OTS-VIA: upptime"
-  - name: Staging
+  - name: Homepage (staging)
     url: $STAGING_HOST
-    port: 443
-    check: "tcp-ping"
-    ipv6: true
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+    headers:
+      - "OTS-VIA: upptime"
   - name: App Support
     url: https://app.onetimesecret.com/
-  - name: API (v1)
+
+  - name: API Status (v1)
     url: https://onetimesecret.com/api/v1/status
     __dangerous__body_down_if_text_missing: '"status":"nominal"'
+  - name: API - Create secret
+    method: POST
+    url: https://onetimesecret.com/api/v1/share
+    headers:
+      - "Authorization: Basic $ONETIME_API_TOKEN"
+      - "Content-Type: application/x-www-form-urlencoded"
+    body: 'secret=$UNIQUE_TESTABLE_VALUE&ttl=86400'
 
 # Delay (in milliseconds) that will occur between checking each
 # configured endpoint. Default: 0.

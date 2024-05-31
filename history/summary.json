@@ -58,7 +58,7 @@
     "url": "https://app.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.onetimesecret.com.ico",
     "slug": "app-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 965,
     "timeMonth": 965,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
   }
 ]

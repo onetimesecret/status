@@ -27,8 +27,8 @@ sites:
       - "Content-Type: application/x-www-form-urlencoded"
       - "OTS-VIA: upptime"
     body: 'secret=$UNIQUE_TESTABLE_VALUE&ttl=86400'
-  - name: App Support
-    url: https://app.onetimesecret.com/
+  - name: Shared Platform
+    url: https://shared.onetimesecret.com/
 
 
 # Delay (in milliseconds) that will occur between checking each

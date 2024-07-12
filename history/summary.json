@@ -4,19 +4,19 @@
     "url": "https://onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/onetimesecret.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 480,
-    "timeWeek": 610,
-    "timeMonth": 627,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 628,
+    "timeDay": 499,
+    "timeWeek": 602,
+    "timeMonth": 624,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 13
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://shared.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shared.onetimesecret.com.ico",
     "slug": "shared-platform",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 657,
-    "timeDay": 657,
-    "timeWeek": 657,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
+    "time": 720,
+    "timeDay": 720,
+    "timeWeek": 720,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-07-12": 0
+      "2024-07-12": 13
     }
   }
 ]

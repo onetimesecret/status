@@ -4,9 +4,9 @@
     "url": "https://onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/onetimesecret.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 637,
     "timeYear": 633,
     "dailyMinutesDown": {
+      "2024-07-31": 0,
       "2024-07-12": 13
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://onetimesecret.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/onetimesecret.com.ico",
     "slug": "api-status-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +36,18 @@
     "timeWeek": 153,
     "timeMonth": 125,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "API - Create secret",
     "url": "https://onetimesecret.com/api/v1/share",
     "icon": "https://icons.duckduckgo.com/ip3/onetimesecret.com.ico",
     "slug": "api-create-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +56,9 @@
     "timeWeek": 378,
     "timeMonth": 344,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-31": 0
+    }
   },
   {
     "name": "Shared Platform",
@@ -61,18 +66,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shared.onetimesecret.com.ico",
     "slug": "shared-platform",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "97.53%",
+    "uptimeDay": "52.54%",
+    "uptimeWeek": "93.22%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "97.53%",
     "time": 795,
     "timeDay": 570,
     "timeWeek": 714,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2024-07-31": 0,
+      "2024-07-31": 683,
       "2024-07-12": 13
     }
   }

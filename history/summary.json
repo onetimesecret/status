@@ -10,11 +10,11 @@
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 633,
-    "timeDay": 731,
-    "timeWeek": 749,
-    "timeMonth": 636,
-    "timeYear": 633,
+    "time": 636,
+    "timeDay": 713,
+    "timeWeek": 743,
+    "timeMonth": 645,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2024-07-31": 13,
       "2024-07-12": 13
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 121,
+    "time": 122,
     "timeDay": 138,
     "timeWeek": 148,
-    "timeMonth": 125,
-    "timeYear": 121,
+    "timeMonth": 127,
+    "timeYear": 122,
     "dailyMinutesDown": {
       "2024-07-31": 13
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 340,
-    "timeDay": 359,
-    "timeWeek": 373,
-    "timeMonth": 344,
-    "timeYear": 340,
+    "time": 341,
+    "timeDay": 364,
+    "timeWeek": 375,
+    "timeMonth": 346,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2024-07-31": 13
     }
@@ -66,18 +66,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shared.onetimesecret.com.ico",
     "slug": "shared-platform",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "51.65%",
-    "uptimeWeek": "93.09%",
-    "uptimeMonth": "97.48%",
-    "uptimeYear": "97.48%",
+    "uptime": "95.56%",
+    "uptimeDay": "12.25%",
+    "uptimeWeek": "87.46%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 795,
-    "timeDay": 570,
-    "timeWeek": 714,
+    "timeDay": 0,
+    "timeWeek": 641,
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
-      "2024-07-31": 696,
+      "2024-08-01": 72,
+      "2024-07-31": 1192,
       "2024-07-12": 13
     }
   }

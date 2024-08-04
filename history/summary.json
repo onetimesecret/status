@@ -61,28 +61,23 @@
     }
   },
   {
-    "name": "Shared Platform",
-    "url": "https://shared.onetimesecret.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/shared.onetimesecret.com.ico",
-    "slug": "shared-platform",
+    "name": "Identity Plus (EU)",
+    "url": "https://eu.onetimesecret.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
+    "slug": "identity-plus-eu",
     "status": "down",
-    "uptime": "83.07%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "44.61%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "83.07%",
-    "time": 795,
+    "uptime": "20.19%",
+    "uptimeDay": "20.19%",
+    "uptimeWeek": "20.19%",
+    "uptimeMonth": "20.19%",
+    "uptimeYear": "20.19%",
+    "time": 0,
     "timeDay": 0,
-    "timeWeek": 785,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-04": 71,
-      "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1192,
-      "2024-07-12": 13
+      "2024-08-04": 0
     }
   }
 ]

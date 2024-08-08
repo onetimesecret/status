@@ -1,7 +1,7 @@
 url: https://onetimesecret.com/api/v1/status
-status: down
-code: 503
-responseTime: 96
-lastUpdated: 2024-08-08T06:12:59.230Z
+status: up
+code: 200
+responseTime: 105
+lastUpdated: 2024-08-08T06:37:19.342Z
 startTime: 2024-05-25T01:19:39.126Z
 generator: Upptime <https://github.com/upptime/upptime>

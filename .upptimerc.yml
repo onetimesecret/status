@@ -47,7 +47,7 @@ assignees:
 
 status-website:
   cname: status.onetimesecret.com
-  logoUrl: https://onetimesecret.com/img/logo-96.png
+  logoUrl: https://onetimesecret.com/v3/img/onetime-logo-v3-xl.svg
   name: Status - Onetime Secret
   introTitle: Real-time status and uptime monitoring for Onetime Secret.
   introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://upptime.js.org)

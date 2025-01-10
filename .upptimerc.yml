@@ -19,6 +19,9 @@ sites:
   - name: API Status (v1)
     url: https://onetimesecret.com/api/v1/status
     __dangerous__body_down_if_text_missing: '"status":"nominal"'
+  - name: API Status (v2)
+    url: https://onetimesecret.com/api/v2/status
+    __dangerous__body_down_if_text_missing: '"status":"nominal"'
   - name: API - Create secret
     method: POST
     url: https://onetimesecret.com/api/v1/share
@@ -33,6 +36,22 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+      url: https://us.onetimesecret.com/
+      maxResponseTime: 5000
+      expectedStatusCodes:
+        - 200
+        - 201
+    - name: Blog
+      url: https://blog.onetimesecret.com/
+      maxResponseTime: 5000
+      expectedStatusCodes:
+        - 200
+        - 201  
+    - name: Documentation
+      url: https://docs.onetimesecret.com/
+      maxResponseTime: 5000
+      expectedStatusCodes:
+        - 200
 
 # Delay (in milliseconds) that will occur between checking each
 # configured endpoint. Default: 0.

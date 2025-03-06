@@ -1,6 +1,6 @@
 ---
 ##
-# Upptime Config - status.onetimesecret.com (2025-01-11)
+# Upptime Config - status.onetimesecret.com (2025-03-06)
 #
 # See:
 #   - https://upptime.js.org/docs/configuration
@@ -17,25 +17,35 @@ sites:
     headers:
       - 'ONETIME-VIA: upptime'
   - name: API Status (v1)
-    url: https://onetimesecret.com/api/v1/status
-    headers:
-      - 'ONETIME-VIA: upptime'
+    url: https://eu.onetimesecret.com/api/v1/status
     __dangerous__body_down_if_text_missing: '"status":"nominal"'
   - name: API Status (v2)
-    url: https://onetimesecret.com/api/v2/status
-    headers:
-      - 'ONETIME-VIA: upptime'
+    url: https://eu.onetimesecret.com/api/v2/status
     __dangerous__body_down_if_text_missing: '"status":"nominal"'
   - name: API - Create secret
     method: POST
-    url: https://onetimesecret.com/api/v1/share
+    url: https://eu.onetimesecret.com/api/v1/share
     headers:
-      - 'Authorization: Basic $ONETIME_API_TOKEN'
-      - 'Content-Type: application/x-www-form-urlencoded'
-      - 'OTS-VIA: upptime'
-    body: secret=$UNIQUE_TESTABLE_VALUE&ttl=86400
+      - "Authorization: Basic $ONETIME_API_TOKEN"
+      - "Content-Type: application/x-www-form-urlencoded"
+      - "OTS-VIA: upptime"
+    body: 'secret=$UNIQUE_TESTABLE_VALUE&ttl=300'
+  - name: API - Create secret
+    method: POST
+    url: https://eu.onetimesecret.com/api/v2/secret/conceal
+    headers:
+      - "Authorization: Basic $ONETIME_API_TOKEN"
+      - "Content-Type: application/json"
+      - "OTS-VIA: upptime"
+    body: '{"secret":{"secret":"$UNIQUE_TESTABLE_VALUE","ttl":300}}'
   - name: Identity Plus (EU)
     url: https://eu.onetimesecret.com/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
+  - name: Identity Plus (CA)
+    url: https://ca.onetimesecret.com/
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -46,17 +56,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
-  - name: Blog
-    url: https://blog.onetimesecret.com/
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
-      - 201
-  - name: Documentation
-    url: https://docs.onetimesecret.com/
-    maxResponseTime: 5000
-    expectedStatusCodes:
-      - 200
+
 # Delay (in milliseconds) that will occur between checking each
 # configured endpoint. Default: 0.
 delay: 2000
@@ -72,7 +72,7 @@ status-website:
   introTitle: Real-time status and uptime monitoring for Onetime Secret.
   introMessage: This is a our status page which uses **real-time** data from our [GitHub repository](https://github.com/onetimesecret/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://upptime.js.org)
   robotsText: |-
-    User-agent: * 
+    User-agent: *
      Disallow: /
   navbar:
     - title: Status

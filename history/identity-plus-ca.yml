@@ -1,7 +1,7 @@
 url: https://ca.onetimesecret.com/
-status: up
-code: 200
-responseTime: 2665
-lastUpdated: 2025-04-11T23:21:15.075Z
+status: degraded
+code: 503
+responseTime: 23251
+lastUpdated: 2025-04-11T23:39:12.808Z
 startTime: 2025-03-06T20:15:56.156Z
 generator: Upptime <https://github.com/upptime/upptime>

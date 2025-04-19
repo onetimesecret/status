@@ -189,15 +189,15 @@
     "url": "https://ca.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ca.onetimesecret.com.ico",
     "slug": "identity-plus-ca",
-    "status": "up",
-    "uptime": "94.22%",
-    "uptimeDay": "89.78%",
-    "uptimeWeek": "92.13%",
-    "uptimeMonth": "91.72%",
-    "uptimeYear": "94.22%",
+    "status": "down",
+    "uptime": "94.27%",
+    "uptimeDay": "92.39%",
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "91.76%",
+    "uptimeYear": "94.27%",
     "time": 2449,
-    "timeDay": 1914,
-    "timeWeek": 3126,
+    "timeDay": 2207,
+    "timeWeek": 3209,
     "timeMonth": 2619,
     "timeYear": 2449,
     "dailyMinutesDown": {
@@ -230,7 +230,7 @@
       "2025-03-24": 81,
       "2025-03-23": 131,
       "2025-03-22": 117,
-      "2025-03-21": 87
+      "2025-03-21": 72
     }
   },
   {

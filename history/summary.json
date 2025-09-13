@@ -5,22 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/onetimesecret.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 669,
-    "timeDay": 191,
-    "timeWeek": 254,
-    "timeMonth": 158,
-    "timeYear": 588,
+    "uptimeYear": "99.76%",
+    "time": 668,
+    "timeDay": 157,
+    "timeWeek": 234,
+    "timeMonth": 160,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-05-29": 22,
       "2024-12-19": 291,
       "2024-10-19": 191,
-      "2024-10-18": 125,
-      "2024-09-13": 698
+      "2024-10-18": 125
     }
   },
   {
@@ -33,17 +32,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 421,
-    "timeDay": 274,
-    "timeWeek": 328,
-    "timeMonth": 457,
-    "timeYear": 388,
+    "uptimeYear": "99.76%",
+    "time": 422,
+    "timeDay": 179,
+    "timeWeek": 273,
+    "timeMonth": 454,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2024-12-19": 291,
       "2024-10-19": 191,
-      "2024-10-18": 125,
-      "2024-09-13": 713
+      "2024-10-18": 125
     }
   },
   {
@@ -58,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 161,
+    "timeDay": 109,
+    "timeWeek": 127,
+    "timeMonth": 160,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2025-05-13": 13
@@ -76,17 +74,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.77%",
     "time": 409,
-    "timeDay": 359,
-    "timeWeek": 391,
-    "timeMonth": 409,
-    "timeYear": 405,
+    "timeDay": 342,
+    "timeWeek": 384,
+    "timeMonth": 406,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2024-12-19": 291,
       "2024-10-19": 191,
-      "2024-10-18": 124,
-      "2024-09-13": 698
+      "2024-10-18": 124
     }
   },
   {
@@ -99,17 +96,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.77%",
     "time": 409,
-    "timeDay": 359,
-    "timeWeek": 391,
-    "timeMonth": 409,
-    "timeYear": 405,
+    "timeDay": 342,
+    "timeWeek": 384,
+    "timeMonth": 406,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2024-12-19": 291,
       "2024-10-19": 191,
-      "2024-10-18": 124,
-      "2024-09-13": 698
+      "2024-10-18": 124
     }
   },
   {
@@ -118,21 +114,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "identity-plus-eu",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
-    "time": 545,
-    "timeDay": 165,
-    "timeWeek": 168,
-    "timeMonth": 195,
-    "timeYear": 435,
+    "uptimeYear": "99.78%",
+    "time": 544,
+    "timeDay": 137,
+    "timeWeek": 159,
+    "timeMonth": 194,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2024-10-19": 191,
       "2024-10-18": 124,
-      "2024-09-19": 186,
-      "2024-09-13": 723
+      "2024-09-19": 186
     }
   },
   {
@@ -146,11 +141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
-    "time": 2023,
-    "timeDay": 167,
-    "timeWeek": 220,
-    "timeMonth": 269,
-    "timeYear": 2023,
+    "time": 2020,
+    "timeDay": 135,
+    "timeWeek": 186,
+    "timeMonth": 268,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2025-05-13": 119,
       "2025-05-12": 189,
@@ -184,11 +179,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 166,
-    "timeWeek": 337,
-    "timeMonth": 359,
-    "timeYear": 318,
+    "time": 319,
+    "timeDay": 434,
+    "timeWeek": 352,
+    "timeMonth": 362,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   }
 ]

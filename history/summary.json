@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 630,
-    "timeDay": 45,
-    "timeWeek": 107,
-    "timeMonth": 172,
+    "uptimeYear": "99.92%",
+    "time": 628,
+    "timeDay": 58,
+    "timeWeek": 94,
+    "timeMonth": 167,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2025-05-29": 22,
-      "2024-12-19": 291,
-      "2024-10-19": 191
+      "2024-12-19": 291
     }
   },
   {
@@ -31,15 +30,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.93%",
     "time": 433,
-    "timeDay": 347,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 347,
+    "timeDay": 329,
+    "timeWeek": 278,
+    "timeMonth": 258,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2024-12-19": 291,
-      "2024-10-19": 191
+      "2024-12-19": 291
     }
   },
   {
@@ -54,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 110,
-    "timeWeek": 140,
+    "timeDay": 171,
+    "timeWeek": 148,
     "timeMonth": 146,
     "timeYear": 154,
     "dailyMinutesDown": {
@@ -72,15 +70,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.93%",
     "time": 413,
-    "timeDay": 489,
-    "timeWeek": 394,
-    "timeMonth": 381,
-    "timeYear": 390,
+    "timeDay": 414,
+    "timeWeek": 404,
+    "timeMonth": 382,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-12-19": 291,
-      "2024-10-19": 191
+      "2024-12-19": 291
     }
   },
   {
@@ -93,15 +90,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.93%",
     "time": 413,
-    "timeDay": 489,
-    "timeWeek": 394,
-    "timeMonth": 381,
-    "timeYear": 390,
+    "timeDay": 414,
+    "timeWeek": 404,
+    "timeMonth": 382,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-12-19": 291,
-      "2024-10-19": 191
+      "2024-12-19": 291
     }
   },
   {
@@ -114,15 +110,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
-    "time": 514,
-    "timeDay": 126,
-    "timeWeek": 164,
+    "uptimeYear": "99.98%",
+    "time": 513,
+    "timeDay": 188,
+    "timeWeek": 172,
     "timeMonth": 164,
-    "timeYear": 269,
-    "dailyMinutesDown": {
-      "2024-10-19": 191
-    }
+    "timeYear": 268,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Identity Plus (CA)",
@@ -130,16 +124,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ca.onetimesecret.com.ico",
     "slug": "identity-plus-ca",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.91%",
-    "time": 1902,
-    "timeDay": 209,
-    "timeWeek": 195,
-    "timeMonth": 210,
-    "timeYear": 1902,
+    "uptimeYear": "98.92%",
+    "time": 1899,
+    "timeDay": 243,
+    "timeWeek": 193,
+    "timeMonth": 207,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2025-05-13": 119,
       "2025-05-12": 189,
@@ -173,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 397,
-    "timeWeek": 291,
-    "timeMonth": 300,
-    "timeYear": 316,
+    "time": 315,
+    "timeDay": 132,
+    "timeWeek": 268,
+    "timeMonth": 289,
+    "timeYear": 315,
     "dailyMinutesDown": {
       "2025-10-09": 29
     }

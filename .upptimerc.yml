@@ -56,6 +56,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+  - name: Identity Plus (NZ)
+    url: https://nz.onetimesecret.com/
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 201
 
 # Delay (in milliseconds) that will occur between checking each
 # configured endpoint. Default: 0.

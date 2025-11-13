@@ -176,5 +176,23 @@
     "dailyMinutesDown": {
       "2025-10-09": 29
     }
+  },
+  {
+    "name": "Identity Plus (NZ)",
+    "url": "https://nz.onetimesecret.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/nz.onetimesecret.com.ico",
+    "slug": "identity-plus-nz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1010,
+    "timeDay": 1010,
+    "timeWeek": 1010,
+    "timeMonth": 1010,
+    "timeYear": 1010,
+    "dailyMinutesDown": {}
   }
 ]

@@ -4,9 +4,9 @@
     "url": "https://onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/onetimesecret.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 203,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2026-02-20": 0,
       "2025-05-29": 22
     }
   },
@@ -198,11 +199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nz.onetimesecret.com.ico",
     "slug": "identity-plus-nz",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "95.29%",
     "uptimeWeek": "97.60%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 766,
     "timeDay": 880,
     "timeWeek": 814,

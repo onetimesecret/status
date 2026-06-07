@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-status-v1",
     "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.51%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.77%",
     "time": 362,
     "timeDay": 178,
     "timeWeek": 366,
@@ -41,7 +41,7 @@
       "2026-03-28": 52,
       "2026-04-27": 656,
       "2026-05-02": 119,
-      "2026-06-07": 1
+      "2026-06-07": 112
     }
   },
   {
@@ -50,11 +50,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-status-v2",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.84%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.77%",
     "time": 167,
     "timeDay": 322,
     "timeWeek": 349,
@@ -66,7 +66,7 @@
       "2026-03-28": 52,
       "2026-04-27": 656,
       "2026-05-02": 119,
-      "2026-06-07": 1
+      "2026-06-07": 112
     }
   },
   {
@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-create-secret",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.46%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.66%",
     "time": 367,
     "timeDay": 292,
     "timeWeek": 344,
@@ -92,7 +92,7 @@
       "2026-04-27": 656,
       "2026-05-02": 119,
       "2026-05-19": 576,
-      "2026-06-07": 1
+      "2026-06-07": 112
     }
   },
   {
@@ -101,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-create-secret",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.46%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "99.66%",
     "time": 367,
     "timeDay": 292,
     "timeWeek": 344,
@@ -118,7 +118,7 @@
       "2026-04-27": 656,
       "2026-05-02": 119,
       "2026-05-19": 576,
-      "2026-06-07": 1
+      "2026-06-07": 112
     }
   },
   {
@@ -127,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "identity-plus-eu",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.20%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.77%",
     "time": 203,
     "timeDay": 149,
     "timeWeek": 365,
@@ -143,7 +143,7 @@
       "2026-03-28": 52,
       "2026-04-27": 656,
       "2026-05-02": 118,
-      "2026-06-07": 0
+      "2026-06-07": 111
     }
   },
   {

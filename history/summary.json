@@ -188,9 +188,9 @@
     "url": "https://us.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/us.onetimesecret.com.ico",
     "slug": "identity-plus-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
@@ -212,7 +212,8 @@
       "2026-04-02": 106,
       "2026-04-04": 75,
       "2026-04-17": 136,
-      "2026-04-21": 68
+      "2026-04-21": 68,
+      "2026-08-21": 0
     }
   },
   {

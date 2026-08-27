@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-status-v1",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "73.63%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.49%",
+    "uptime": "99.38%",
+    "uptimeDay": "31.70%",
+    "uptimeWeek": "90.24%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "99.38%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 387,
@@ -43,7 +43,7 @@
       "2026-05-02": 119,
       "2026-06-07": 1128,
       "2026-06-28": 77,
-      "2026-08-27": 380
+      "2026-08-27": 984
     }
   },
   {
@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-status-v2",
     "status": "down",
-    "uptime": "99.68%",
-    "uptimeDay": "73.64%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.61%",
+    "uptimeDay": "31.72%",
+    "uptimeWeek": "90.25%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "99.37%",
     "time": 213,
     "timeDay": 0,
     "timeWeek": 312,
@@ -72,7 +72,7 @@
       "2026-06-28": 77,
       "2026-07-26": 3,
       "2026-07-25": 47,
-      "2026-08-27": 380
+      "2026-08-27": 983
     }
   },
   {
@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-create-secret",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.37%",
+    "uptimeDay": "57.99%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.34%",
     "time": 371,
     "timeDay": 481,
     "timeWeek": 419,
@@ -100,7 +100,7 @@
       "2026-05-19": 576,
       "2026-06-07": 1128,
       "2026-06-28": 77,
-      "2026-08-27": 1
+      "2026-08-27": 605
     }
   },
   {
@@ -109,11 +109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-create-secret",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.37%",
+    "uptimeDay": "57.98%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.34%",
     "time": 371,
     "timeDay": 481,
     "timeWeek": 419,
@@ -128,7 +128,7 @@
       "2026-05-19": 576,
       "2026-06-07": 1128,
       "2026-06-28": 77,
-      "2026-08-27": 1
+      "2026-08-27": 605
     }
   },
   {
@@ -136,10 +136,10 @@
     "url": "https://eu.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "identity-plus-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 216,
@@ -154,7 +154,8 @@
       "2026-04-27": 656,
       "2026-05-02": 118,
       "2026-06-07": 1127,
-      "2026-06-28": 77
+      "2026-06-28": 77,
+      "2026-08-27": 1
     }
   },
   {
@@ -163,11 +164,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ca.onetimesecret.com.ico",
     "slug": "identity-plus-ca",
     "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.72%",
+    "uptime": "99.34%",
+    "uptimeDay": "58.02%",
+    "uptimeWeek": "92.43%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "99.60%",
     "time": 385,
     "timeDay": 427,
     "timeWeek": 346,
@@ -186,7 +187,7 @@
       "2026-07-13": 79,
       "2026-08-12": 575,
       "2026-08-26": 158,
-      "2026-08-27": 1
+      "2026-08-27": 605
     }
   },
   {
@@ -195,11 +196,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.onetimesecret.com.ico",
     "slug": "identity-plus-us",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.73%",
+    "uptimeDay": "58.04%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "98.51%",
+    "uptimeYear": "99.56%",
     "time": 304,
     "timeDay": 150,
     "timeWeek": 241,
@@ -220,7 +221,7 @@
       "2026-04-17": 136,
       "2026-04-21": 68,
       "2026-08-21": 50,
-      "2026-08-27": 1
+      "2026-08-27": 604
     }
   },
   {

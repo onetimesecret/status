@@ -1,7 +1,7 @@
 url: https://us.onetimesecret.com/
-status: degraded
-code: 504
-responseTime: 59251
-lastUpdated: 2026-09-05T22:22:08.671Z
+status: up
+code: 200
+responseTime: 559
+lastUpdated: 2026-09-06T00:02:19.903Z
 startTime: 2025-01-11T18:56:17.187Z
 generator: Upptime <https://github.com/upptime/upptime>

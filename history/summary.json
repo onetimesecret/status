@@ -13,8 +13,8 @@
     "time": 180,
     "timeDay": 98,
     "timeWeek": 415,
-    "timeMonth": 241,
-    "timeYear": 176,
+    "timeMonth": 246,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2026-02-20": 56
     }
@@ -33,8 +33,8 @@
     "time": 388,
     "timeDay": 263,
     "timeWeek": 835,
-    "timeMonth": 550,
-    "timeYear": 366,
+    "timeMonth": 564,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2026-02-09": 117,
@@ -61,7 +61,7 @@
     "time": 215,
     "timeDay": 182,
     "timeWeek": 173,
-    "timeMonth": 381,
+    "timeMonth": 388,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -91,7 +91,7 @@
     "time": 369,
     "timeDay": 234,
     "timeWeek": 201,
-    "timeMonth": 393,
+    "timeMonth": 396,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -120,7 +120,7 @@
     "time": 369,
     "timeDay": 234,
     "timeWeek": 201,
-    "timeMonth": 393,
+    "timeMonth": 396,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -149,7 +149,7 @@
     "time": 220,
     "timeDay": 255,
     "timeWeek": 227,
-    "timeMonth": 380,
+    "timeMonth": 386,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -177,8 +177,8 @@
     "time": 393,
     "timeDay": 335,
     "timeWeek": 649,
-    "timeMonth": 420,
-    "timeYear": 429,
+    "timeMonth": 424,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2025-10-24": 13,
       "2025-11-18": 115,
@@ -201,17 +201,17 @@
     "url": "https://us.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/us.onetimesecret.com.ico",
     "slug": "identity-plus-us",
-    "status": "degraded",
-    "uptime": "99.66%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.22%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "99.44%",
-    "time": 427,
-    "timeDay": 29871,
-    "timeWeek": 6336,
-    "timeMonth": 1897,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "93.04%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "99.42%",
+    "time": 428,
+    "timeDay": 20100,
+    "timeWeek": 5811,
+    "timeMonth": 1903,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2025-10-09": 29,
       "2025-11-13": 31,
@@ -230,7 +230,8 @@
       "2026-08-28": 300,
       "2026-08-27": 794,
       "2026-09-01": 179,
-      "2026-09-05": 0
+      "2026-09-06": 2,
+      "2026-09-05": 98
     }
   },
   {
@@ -247,7 +248,7 @@
     "time": 855,
     "timeDay": 706,
     "timeWeek": 898,
-    "timeMonth": 889,
+    "timeMonth": 875,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2025-11-18": 146,

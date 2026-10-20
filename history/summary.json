@@ -24,16 +24,16 @@
     "url": "https://eu.onetimesecret.com/api/v1/status",
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-status-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 392,
-    "timeDay": 564,
-    "timeWeek": 471,
-    "timeMonth": 487,
+    "timeDay": 399,
+    "timeWeek": 441,
+    "timeMonth": 479,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -44,7 +44,8 @@
       "2026-06-07": 1128,
       "2026-06-28": 77,
       "2026-08-28": 299,
-      "2026-08-27": 1173
+      "2026-08-27": 1173,
+      "2026-10-20": 1
     }
   },
   {
@@ -52,17 +53,17 @@
     "url": "https://eu.onetimesecret.com/api/v2/status",
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-status-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 222,
-    "timeDay": 185,
-    "timeWeek": 258,
-    "timeMonth": 233,
-    "timeYear": 242,
+    "timeDay": 326,
+    "timeWeek": 284,
+    "timeMonth": 241,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2026-02-09": 117,
@@ -74,7 +75,8 @@
       "2026-07-26": 3,
       "2026-07-25": 47,
       "2026-08-28": 299,
-      "2026-08-27": 1173
+      "2026-08-27": 1173,
+      "2026-10-20": 1
     }
   },
   {
@@ -82,16 +84,16 @@
     "url": "https://eu.onetimesecret.com/api/v1/share",
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-create-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.19%",
-    "time": 352,
-    "timeDay": 302,
-    "timeWeek": 226,
-    "timeMonth": 234,
+    "time": 351,
+    "timeDay": 270,
+    "timeWeek": 224,
+    "timeMonth": 233,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -104,7 +106,8 @@
       "2026-06-28": 77,
       "2026-08-28": 299,
       "2026-08-27": 795,
-      "2026-09-25": 290
+      "2026-09-25": 290,
+      "2026-10-20": 1
     }
   },
   {
@@ -112,16 +115,16 @@
     "url": "https://eu.onetimesecret.com/api/v2/secret/conceal",
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "api-create-secret",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.19%",
-    "time": 352,
-    "timeDay": 302,
-    "timeWeek": 226,
-    "timeMonth": 234,
+    "time": 351,
+    "timeDay": 270,
+    "timeWeek": 224,
+    "timeMonth": 233,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-11-18": 130,
@@ -134,7 +137,8 @@
       "2026-06-28": 77,
       "2026-08-28": 299,
       "2026-08-27": 795,
-      "2026-09-25": 290
+      "2026-09-25": 290,
+      "2026-10-20": 1
     }
   },
   {
@@ -142,17 +146,17 @@
     "url": "https://eu.onetimesecret.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eu.onetimesecret.com.ico",
     "slug": "identity-plus-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.20%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 229,
-    "timeDay": 510,
-    "timeWeek": 370,
-    "timeMonth": 279,
-    "timeYear": 244,
+    "time": 230,
+    "timeDay": 601,
+    "timeWeek": 410,
+    "timeMonth": 292,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2026-02-09": 117,
@@ -162,7 +166,8 @@
       "2026-06-07": 1127,
       "2026-06-28": 77,
       "2026-08-28": 300,
-      "2026-08-27": 191
+      "2026-08-27": 191,
+      "2026-10-20": 1
     }
   },
   {
@@ -180,7 +185,7 @@
     "timeDay": 401,
     "timeWeek": 462,
     "timeMonth": 466,
-    "timeYear": 456,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2025-10-24": 13,
       "2025-11-18": 115,
@@ -209,7 +214,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
-    "time": 429,
+    "time": 453,
     "timeDay": 548,
     "timeWeek": 486,
     "timeMonth": 550,

@@ -1,7 +1,7 @@
 url: https://eu.onetimesecret.com/api/v2/status
-status: up
-code: 200
-responseTime: 185
-lastUpdated: 2026-10-19T00:58:39.971Z
+status: down
+code: 503
+responseTime: 466
+lastUpdated: 2026-10-20T00:35:47.289Z
 startTime: 2025-01-11T18:56:09.775Z
 generator: Upptime <https://github.com/upptime/upptime>
